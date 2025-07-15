@@ -1,4 +1,5 @@
 # Transportation-and-Logistics-Tracking-Dashboard
+
 Welcome to my data analysis project focused on Transportation and Logistics! 
 An interactive Power BI dashboard that analyzes shipment routes, delivery delays, peak booking periods, and supplier performance to uncover insights and improve logistics operations. 
 In this project, I built an interactive dashboard using **Power BI** to explore trends in shipment activity, delivery performance, and supplier efficiency.
@@ -51,7 +52,7 @@ To analyze and visualize transportation data to answer the following business qu
 
 If you'd like to connect or discuss this project:
 - 📧 ujunwarose1995@email.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/eyamaryroseujunwa)
+- 🌐 [LinkedIn] https://www.linkedin.com/in/eyamaryroseujunwa
 
 ---
 
